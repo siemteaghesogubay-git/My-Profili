@@ -334,4 +334,10 @@ h1 {
         margin: 0;
     }
 
+
+    .contactinfo p {
+        align-items: center;
+        font-size: 10pt;
+    }
+
 }
